@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Lario
 
-<!--
-**LTruter/LTruter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduate in Information Systems (Internet Development) focused on building full-stack web applications.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+Frontend: HTML, CSS, JavaScript, React  
+Backend: PHP, Node.js, Express  
+Databases: MySQL, MongoDB (Mongoose)  
+CMS: Joomla, WordPress  
+Version Control: Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+Currently building a full-stack web application to showcase production-level architecture and clean code practices.
+
+## 📌 Featured Projects
+- [FinalWebDevelopmentproject](https://github.com/LTruter/FinalWebDevelopmentproject)
+- [PHPNewsWebsite](https://github.com/LTruter/PHPNewsWebsite)
+
+## 🔗 Links
+- [LinkedIn](https://www.linkedin.com/in/lario-truter/)
